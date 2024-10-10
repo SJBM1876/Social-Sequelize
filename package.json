@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/Social-Sequelize#readme",
   "dependencies": {
-    "jest": "^29.5.0",
-    "sequelize": "^6.30.0",
-    "sqlite3": "^5.1.6"
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.4",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
